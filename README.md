@@ -1,3 +1,6 @@
+##I have written the "matrix inverse" program in the file cachematrix.R
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
